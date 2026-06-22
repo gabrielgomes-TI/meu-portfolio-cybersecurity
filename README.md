@@ -1,2 +1,5 @@
 # meu-portfolio-cybersecurity
 Práticas e laboratórios de Segurança da Informação.
+olá meu nome é Gabriel Gomes da Silva! bom eu gostária de falar sobre meus estudos práticos no tryHackme com segurança defensiva, o monitoramento e bloqueio de endereço IP suspeito,e o uso do comando Dirbe que busca no diretório no servidor usando uma lista de palavras chaves.
+E gostária de comunicar sobre meu conhecimento prático no JSLINUX usando comandos como o mkdir para criar pastas o cd para navegar por elas o pwd para me localizar o ls para listar a pasta atual o grep para a busca de palavras específicas o clear para organizar a tela.
+gostária de comunicar meu conhecimento sobre IA generativa é cloud no projeto treina brasil da AWS aprendendo a escrever bom prompt para ter mais eficiência e ter um bom resultado, um exemplo de segurança é o amazon bedrock que lá encontramos diversos modelos de IA como assistente virtual, IA para ajudar a traduzir texto em vídeo entre outros. e sigo me dedicando e aprendendo aos poucos.
